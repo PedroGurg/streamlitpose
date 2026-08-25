@@ -1,5 +1,5 @@
 streamlit>=1.35
-opencv-contrib-python>=4.8
+opencv-contrib-python-headless>=4.8
 numpy
 toml
 plotly
